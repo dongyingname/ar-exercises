@@ -9,4 +9,4 @@ Gastown = Store.new(name:'Gastown',annual_revenue: 190000, mens_apparel: true, w
 Burnaby.save
 Richmond.save
 Gastown.save
-puts 'number of stores',Store.count
+puts 'Exercise1:number of stores',Store.count
